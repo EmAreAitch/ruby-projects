@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+gem "io-console"
+gem "tty-cursor"
+gem "tty-table"
+gem "time"
+gem "csv"
+
